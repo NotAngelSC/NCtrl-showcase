@@ -1,0 +1,20 @@
+# Material privado, temporal o regenerable
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.db
+*.sqlite*
+*.dump
+*.log
+*.tmp
+.DS_Store
+node_modules/
+dist/
+build/
+test-results/
+*.mp4
+*.mov
+*.webm
